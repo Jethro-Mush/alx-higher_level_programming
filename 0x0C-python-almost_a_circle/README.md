@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Almost a circle
 Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about unit testing, serialization, deserialization, JSON, `args` and `kwargs` in **Python**.
 
@@ -26,3 +27,6 @@ Inside `tests/test_models` folder:
 | `test_base.py` | Module that contains unittests to `Base` class |
 | `test_rectangle.py` | Module that contains unittests to `Rectangle` class |
 | `test_square.py` | Module that contains unittests to `Square` class |
+=======
+0x0C-python-almost_a_circle
+>>>>>>> 243b236eb83414c054813ec6f6e422a083cf8689
